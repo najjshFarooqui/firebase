@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clouds</string>
+    <array name="generes">
+        <item>rock</item>
+        <item>pop</item>
+        <item>jazz</item>
+        <item>classic</item>
+    </array>
+</resources>
